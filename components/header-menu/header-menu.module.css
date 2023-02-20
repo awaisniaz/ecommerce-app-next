@@ -1,9 +1,0 @@
-.menu_container {
-    display: flex;
-    height: 60px;
-    padding: 10px 50px;
-    background-color: antiquewhite;
-    flex-direction: row;
-    justify-content: space-between;
-    align-items: center;
-}
